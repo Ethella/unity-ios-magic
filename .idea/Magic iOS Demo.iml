@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Library/ShaderCache/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/Library/TempArtifacts" />
+      <excludeFolder url="file://$MODULE_DIR$/Temp/StagingArea/Trampoline/UnityData.xcassets" />
+      <excludeFolder url="file://$MODULE_DIR$/Temp/Burst" />
+      <excludeFolder url="file://$MODULE_DIR$/Temp/ManagedSymbols" />
+      <excludeFolder url="file://$MODULE_DIR$/Temp/ProcessJobs" />
+      <excludeFolder url="file://$MODULE_DIR$/iosBuild/Unity-iPhone.xcodeproj/project.xcworkspace/xcshareddata/swiftpm" />
+      <excludeFolder url="file://$MODULE_DIR$/iosBuild/UnityData.xcassets" />
+      <excludeFolder url="file://$MODULE_DIR$/iosBuild_BurstDebugInformation_DoNotShip" />
+      <excludeFolder url="file://$MODULE_DIR$/iosBuild" />
+      <excludeFolder url="file://$MODULE_DIR$/Library" />
+      <excludeFolder url="file://$MODULE_DIR$/Logs" />
+      <excludeFolder url="file://$MODULE_DIR$/Temp" />
+      <excludeFolder url="file://$MODULE_DIR$/UserSettings" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
